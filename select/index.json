@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "脈拍",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-22T15:18:17.850705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "脈拍",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/01_脈拍_MUCC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "脈拍",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/02_脈拍_ムック.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "脈拍",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/03_脈拍_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脈拍",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_脈拍_ロクデナシ.txt"
+    }
+  ]
+}
